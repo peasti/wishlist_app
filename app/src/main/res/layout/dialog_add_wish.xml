@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Wish Item"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/navy_text"
+        android:layout_marginBottom="16dp"/>
+
+    <ImageView
+        android:id="@+id/imgPreview"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="#F0F0F0"
+        android:scaleType="centerCrop"
+        android:src="@android:drawable/ic_menu_camera"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/btnSelectImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose Image"
+        android:textColor="@color/indigo_kram"
+        android:gravity="center"
+        android:padding="8dp"
+        android:layout_marginBottom="16dp"
+        android:background="?attr/selectableItemBackground"/>
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Item Name (e.g. PS5)"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/etPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Price (THB)"
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add to Wishlist"
+        android:backgroundTint="@color/charcoal_gray"
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>

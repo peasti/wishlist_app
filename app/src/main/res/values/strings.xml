@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Wish Garden</string>
+    <string name="add_item">Add item</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="add_button">Add Button</string>
+    <string name="tree">Tree</string>
+</resources>
