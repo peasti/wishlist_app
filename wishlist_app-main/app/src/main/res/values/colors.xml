@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ivory_bg">#FDFBF7</color>
+
+    <color name="navy_text">#1B263B</color>
+
+    <color name="indigo_kram">#415A77</color>
+
+    <color name="charcoal_gray">#424242</color>
+
+    <color name="soft_gray">#E0E1DD</color>
+
+    <color name="black">@color/navy_text</color>
+    <color name="white">#FFFFFF</color>
+</resources>

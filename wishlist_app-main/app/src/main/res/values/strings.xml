@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Wish Garden</string>
+    <string name="add_item">Add item</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="add_button">Add Button</string>
+    <string name="tree">Tree</string>
+    <string name="press_back_again">Press back again to exit</string>
+    <string name="price_label">Price: ฿</string>
+    <string name="saved_label">Saved: ฿</string>
+    <string name="remaining_label">Remaining: ฿</string>
+    <string name="completed">Completed!</string>
+    <string name="btn_water">Water (Deposit)</string>
+    <string name="dialog_deposit_title">Watering (Deposit)</string>
+    <string name="hint_amount">Enter Amount</string>
+    <string name="btn_confirm_deposit">Water</string>
+    <string name="error_invalid_amount">Invalid Amount</string>
+    <string name="error_amount_exceed">Amount exceeds remaining! Left:</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="dialog_delete_title">Delete</string>
+    <string name="dialog_delete_msg">Do you really want to delete this tree?</string>
+    <string name="btn_confirm_delete">Delete</string>
+
+    <string name="item_deleted">Item Deleted</string>
+    <string name="progress_saved">Progress Saved</string>
+    <string name="please_fill">Please fill all info</string>
+    <string name="wish_added">Wish Added!</string>
+    <string name="btn_delete">Delete Tree</string>
+
+    <string name="new_wish_item">New Wish Item</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="hint_item_name">Item Name (e.g. PS5)</string>
+    <string name="hint_price">Price (THB)</string>
+    <string name="btn_add">Add to Wishlist</string>
+    <string name="detail_title">Item Details</string>
+</resources>

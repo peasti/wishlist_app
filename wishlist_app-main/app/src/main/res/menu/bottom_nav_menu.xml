@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/home"
+        android:icon="@android:drawable/ic_menu_view" />
+
+    <item
+        android:id="@+id/menu_history"
+        android:title="@string/history"
+        android:icon="@android:drawable/ic_menu_recent_history" />
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/profile"
+        android:icon="@android:drawable/ic_menu_my_calendar" />
+
+    <item
+        android:id="@+id/menu_setting"
+        android:title="@string/setting"
+        android:icon="@android:drawable/ic_menu_preferences" />
+
+</menu>

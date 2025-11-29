@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Wish Garden</string>
+    <string name="add_item">เพิ่มรายการ</string>
+    <string name="home">หน้าหลัก</string>
+    <string name="history">ประวัติ</string>
+    <string name="profile">โปรไฟล์</string>
+    <string name="setting">ตั้งค่า</string>
+    <string name="add_button">ปุ่มเพิ่ม</string>
+    <string name="tree">ต้นไม้</string>
+    <string name="press_back_again">กดอีกครั้งเพื่อออกจากแอป</string>
+    <string name="price_label">ราคา: ฿</string>
+    <string name="saved_label">สะสมแล้ว: ฿</string>
+    <string name="remaining_label">เหลืออีก: ฿</string>
+    <string name="completed">สำเร็จแล้ว!</string>
+    <string name="btn_water">รดน้ำ (ฝากเงิน)</string>
+    <string name="dialog_deposit_title">รดน้ำ (ฝากเงิน)</string>
+    <string name="hint_amount">ระบุจำนวนเงิน</string>
+    <string name="btn_confirm_deposit">รดน้ำ</string>
+    <string name="error_invalid_amount">จำนวนเงินไม่ถูกต้อง</string>
+    <string name="error_amount_exceed">เงินเกินจำนวนที่ต้องเก็บ! เหลือ:</string>
+    <string name="btn_cancel">ยกเลิก</string>
+    <string name="dialog_delete_title">ลบ</string>
+    <string name="dialog_delete_msg">คุณต้องการลบต้นไม้นี้จริงหรือไม่?</string>
+    <string name="btn_confirm_delete">ลบ</string>
+
+    <string name="item_deleted">ลบรายการแล้ว</string>
+    <string name="progress_saved">บันทึกความคืบหน้าแล้ว</string>
+    <string name="please_fill">กรุณากรอกข้อมูลให้ครบ</string>
+    <string name="wish_added">เพิ่มรายการสำเร็จ!</string>
+    <string name="btn_delete">ลบต้นไม้</string>
+
+    <string name="new_wish_item">เพิ่มรายการใหม่</string>
+    <string name="choose_image">เลือกรูปภาพ</string>
+    <string name="hint_item_name">ชื่อสิ่งของ (เช่น PS5)</string>
+    <string name="hint_price">ราคา (บาท)</string>
+    <string name="btn_add">เพิ่มลงรายการ</string>
+    <string name="detail_title">รายละเอียด</string>
+</resources>
